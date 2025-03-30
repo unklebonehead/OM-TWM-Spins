@@ -5,27 +5,27 @@
 3. Stay small and light weight
 4. Allow for user to rice and boat up as they wish.
 
-### App list
+### Current App list
 
 #### GUI Apps
 
-- kitty
-- pcmanfm-qt
-- kate
-- laxappearance
-- kvantum
-- chromium
-- dnfdrake
-- om-welcome
-- om-imagewriter
-- Azote
-- rofi
+- kitty - terminal
+- pcmanfm-qt - file manager
+- kate - gui text editor
+- laxappearance - gtk app themer
+- kvantum - qt app themer
+- chromium - gui browser
+- dnfdrake - gui package manager for dnf
+- om-welcome - OpenMandriva's awesome welcome app
+- om-imagewriter - OpenMandriva's usb imager
+- Azote - Wallpaper handler
+- rofi - app launcher
 
 #### Terminal apps
 
-- vim
-- ranger
-- htop
+- vim - terminal text editor
+- ranger - terminal file manager 
+- htop - terminal system info 
 
 ### Packages needed for i3
 
